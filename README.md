@@ -21,3 +21,7 @@ En dehors de ces services nous vous proposant un bon nombre de widgets, qui sont
 Liste des widgets : Météo (localisation), Map (localisation), Github info. user, Sortie de film cinéma en fonction de la période, Gif search, Steam app stats, et pour les adultes (+18) Pornhub search.
 
 Techno utilisées : Ejs, Angular, NodeJS, Bootstrap; »
+
+
+
+Mark : 39 (GRADE A)
