@@ -12,15 +12,15 @@ Système de connexion stocker dans une BDD.
 
 Pour utliser notre Dashboard il suffira de séléctionner les widgets/services grâce à la liste déroulante. 
 
-Nous vous proposons les services suivant : Spotify, Outlook, Youtube, Facebook. 
+Nous vous proposons les services suivants : Spotify, Outlook, Youtube, Facebook. 
 
-Ces services proposent les widgets suivant : (Spotify) Player, (Spotify) Gestion des playlists, (Facebook) Affichage des publication, (Youtube) Recherche de vidéo, (Outlook) Consultation de ses mails.
+Ces services proposent les widgets suivant : (Spotify) Player, (Spotify) Gestion des playlists, (Facebook) Affichage des publications, (Youtube) Recherche de vidéo, (Outlook) Consultation de ses mails.
 
-En dehors de ces services nous vous proposant un bon nombre de widgets, qui sont à la fois déplacables et générables à l'infinie.
+En dehors de ces services nous vous proposons un bon nombre de widgets, qui sont à la fois déplacables et générables à l'infinie.
 
 Liste des widgets : Météo (localisation), Map (localisation), Github info. user, Sortie de film cinéma en fonction de la période, Gif search, Steam app stats, et pour les adultes (+18) Pornhub search.
 
-Techno utilisées : Ejs, Angular, NodeJS, Bootstrap; »
+Techno utilisées : Ejs, Angular, NodeJS, Bootstrap.
 
 
 
