@@ -1,5 +1,5 @@
 # Dashboard
-EPITECH Dashboard TEK2 Project
+EPITECH Dashboard TEK3 Project
 
 
 METZINGER Olivier BARROSO Kévin
