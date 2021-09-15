@@ -2,9 +2,6 @@
 EPITECH Dashboard TEK3 Project
 
 
-METZINGER Olivier BARROSO Kévin
-
-
 
 Pour utiliser le Dashboard il sera nécessaire de créer un compte et de se connecter avec celui-ci sur la page de connexion (localhost:8080).
 Système de connexion stocker dans une BDD.
